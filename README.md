@@ -219,8 +219,8 @@ A picture is worth 1000 words but metadata is worth far more
     - <img src="./Old_hash_.png" width="600" height="200"><br><br>
 
     
-    - I used [my-md5-hasing-tool](https://github.com/achnouri/md5_hashing/blob/main/md5_hashing/hasingtool1.py) which I developed in Python last year to check and decrypt the hash<br><br>
-    - My [my-md5-hasing-tool](https://github.com/achnouri/md5_hashing/blob/main/md5_hashing/hasingtool1.py) can compare two hashes, check hash length and type, and perform encryption and decryption <br><br>
+    - I used [my-md5-hasing-tool](https://github.com/achnouri/Smart_Hash_Cracker) which I developed in Python last year to check and decrypt the hash<br><br>
+    - [click to see tool](https://github.com/achnouri/Smart_Hash_Cracker)
 
         - After using the hashing tool to decrypt the hash, i obtained the following result : <br><br>
 
