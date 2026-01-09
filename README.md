@@ -12,6 +12,7 @@
 
 <br>
 
+
 ---
 
 As the OSINT team, we found ourselves victims of a cyber attack. however due to the mistake of attacker he left an image that our forensic team discovered, and now we must to determine who the attacker is?
